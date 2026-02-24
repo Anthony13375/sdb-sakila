@@ -28,6 +28,7 @@ ALTER USER 'sys_test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'pass
 *Результатом работы должны быть скриншоты обозначенных заданий, а также простыня со всеми запросами.*
 
 Ответ к заданию 1
+
 ![users](https://github.com/Anthony13375/sdb-sakila/blob/main/img/1.png)
 ![priveleges](https://github.com/Anthony13375/sdb-sakila/blob/main/img/2.png)
 ![switch_user](https://github.com/Anthony13375/sdb-sakila/blob/main/img/3.png)
@@ -45,6 +46,7 @@ customer         | customer_id
 Ответ к заданию 2
 
 ![Файл](https://github.com/Anthony13375/sdb-sakila/blob/main/Sakila.xlsx)
+
 ![file](https://github.com/Anthony13375/sdb-sakila/blob/main/img/5.png)
 
 
